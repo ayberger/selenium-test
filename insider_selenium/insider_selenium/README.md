@@ -30,4 +30,4 @@ pytest -v
 
 ---
 
-Note: I kept the delay a little longer to avoid incorrect results from the filter. You should wait a few seconds.
+Note: I kept the delay a little longer to avoid incorrect results from the filter. You should wait a few seconds. And finally, sometimes you might encounter a bug when you adjust the dimensions of the opened test page, so it would be better not to touch it for efficiency reasons.
